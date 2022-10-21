@@ -1,0 +1,6 @@
+E:\demo\CalculatorLibJenkinsDemo\bin\Debug\CalculatorLibJenkinsDemo.dll
+E:\demo\CalculatorLibJenkinsDemo\bin\Debug\CalculatorLibJenkinsDemo.pdb
+E:\demo\CalculatorLibJenkinsDemo\obj\Debug\CalculatorLibJenkinsDemo.csproj.AssemblyReference.cache
+E:\demo\CalculatorLibJenkinsDemo\obj\Debug\CalculatorLibJenkinsDemo.csproj.CoreCompileInputs.cache
+E:\demo\CalculatorLibJenkinsDemo\obj\Debug\CalculatorLibJenkinsDemo.dll
+E:\demo\CalculatorLibJenkinsDemo\obj\Debug\CalculatorLibJenkinsDemo.pdb
