@@ -31,7 +31,7 @@ namespace CalculatorLibJenkinsDemo
         {
             a = 2;
             b = 2;
-            c = a * b*c*d;
+            c = a * b;
             Console.WriteLine(c);
             
         }
